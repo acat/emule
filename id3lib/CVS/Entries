@@ -1,0 +1,41 @@
+/AUTHORS/1.2/Wed Mar  2 21:01:10 2005/-ko/
+/COPYING/1.2/Wed Mar  2 21:01:43 2005/-ko/
+/ChangeLog/1.2/Wed Mar  2 21:01:10 2005/-ko/
+/HISTORY/1.2/Wed Mar  2 21:02:09 2005/-ko/
+/INSTALL/1.2/Wed Mar  2 21:02:09 2005/-ko/
+/Makefile.am/1.2/Wed Mar  2 21:02:28 2005/-ko/
+/Makefile.in/1.2/Wed Mar  2 21:02:28 2005/-ko/
+/NEWS/1.2/Wed Mar  2 21:02:44 2005/-ko/
+/README/1.2/Wed Mar  2 21:02:44 2005/-ko/
+/THANKS/1.2/Wed Mar  2 21:02:44 2005/-ko/
+/TODO/1.2/Wed Mar  2 21:02:44 2005/-ko/
+/acconfig.h/1.1/Mon Aug  4 13:43:28 2003/-ko/
+/aclocal.m4/1.2/Wed Mar  2 21:01:10 2005/-ko/
+/config.guess/1.2/Wed Mar  2 21:01:10 2005/-ko/
+/config.h/1.1/Mon Aug  4 13:43:28 2003/-ko/
+/config.h.in/1.2/Wed Mar  2 21:01:26 2005/-ko/
+/config.h.win32/1.2/Wed Mar  2 21:01:26 2005/-ko/
+/config.h.win32.in/1.2/Wed Mar  2 21:01:26 2005/-ko/
+/config.sub/1.2/Wed Mar  2 21:01:43 2005/-ko/
+/configure/1.2/Wed Mar  2 21:01:42 2005/-ko/
+/configure.in/1.2/Wed Mar  2 21:01:43 2005/-ko/
+/depcomp/1.2/Wed Mar  2 21:02:09 2005/-ko/
+D/doc////
+D/examples////
+D/id3com////
+/id3lib.spec/1.2/Wed Mar  2 21:02:09 2005/-ko/
+/id3lib.spec.in/1.2/Wed Mar  2 21:02:09 2005/-ko/
+D/include////
+/install-sh/1.2/Wed Mar  2 21:02:09 2005/-ko/
+D/libprj////
+/ltconfig/1.2/Wed Mar  2 21:02:28 2005/-ko/
+/ltmain.sh/1.2/Wed Mar  2 21:02:28 2005/-ko/
+D/m4////
+/makefile.win32/1.2/Wed Mar  2 21:02:28 2005/-ko/
+/makewin32.bat/1.2/Wed Mar  2 21:02:28 2005/-ko/
+/missing/1.2/Wed Mar  2 21:02:44 2005/-ko/
+/mkinstalldirs/1.2/Wed Mar  2 21:02:44 2005/-ko/
+D/prj////
+/reconf/1.2/Wed Mar  2 21:02:44 2005/-ko/
+D/src////
+D/zlib////
