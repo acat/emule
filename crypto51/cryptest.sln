@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cryptest", "cryptest.vcproj", "{71C77D32-33DD-40DB-B2A9-636D0E996561}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = FIPS 140 Debug
+		ConfigName.2 = FIPS 140 Release
+		ConfigName.3 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Debug.ActiveCfg = Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Debug.Build.0 = Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Debug.ActiveCfg = FIPS 140 Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Debug.Build.0 = FIPS 140 Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Release.ActiveCfg = FIPS 140 Release|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Release.Build.0 = FIPS 140 Release|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Release.ActiveCfg = Release|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

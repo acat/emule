@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cryptest", "cryptest_vc9.vcproj", "{71C77D32-33DD-40DB-B2A9-636D0E996561}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF} = {DD60F813-5115-4A7E-B7C4-A5DCB15231BF}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cryptlib", "cryptlib_vc9.vcproj", "{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		FIPS 140 Debug|Win32 = FIPS 140 Debug|Win32
+		FIPS 140 Release|Win32 = FIPS 140 Release|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Debug|Win32.Build.0 = Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Debug|Win32.ActiveCfg = FIPS 140 Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Debug|Win32.Build.0 = FIPS 140 Debug|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Release|Win32.ActiveCfg = FIPS 140 Release|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.FIPS 140 Release|Win32.Build.0 = FIPS 140 Release|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Release|Win32.ActiveCfg = Release|Win32
+		{71C77D32-33DD-40DB-B2A9-636D0E996561}.Release|Win32.Build.0 = Release|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.Debug|Win32.Build.0 = Debug|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.FIPS 140 Debug|Win32.ActiveCfg = Debug|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.FIPS 140 Debug|Win32.Build.0 = Debug|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.FIPS 140 Release|Win32.ActiveCfg = Release|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.FIPS 140 Release|Win32.Build.0 = Release|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.Release|Win32.ActiveCfg = Release|Win32
+		{DD60F813-5115-4A7E-B7C4-A5DCB15231BF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
